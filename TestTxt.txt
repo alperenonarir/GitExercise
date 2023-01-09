@@ -1,4 +1,1 @@
-// some code
-// some more code
-hepsini sildim 
-burayı da değiştim PULLL
+1-) git pull all için 
